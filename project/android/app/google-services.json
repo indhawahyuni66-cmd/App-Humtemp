@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "179578543175",
+    "firebase_url": "https://sensor-suhu-sht20-default-rtdb.firebaseio.com",
+    "project_id": "sensor-suhu-sht20",
+    "storage_bucket": "sensor-suhu-sht20.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:179578543175:android:87e2285c12928f0669a562",
+        "android_client_info": {
+          "package_name": "com.example.myapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCm0aquQzkKDW5XFuOdatxYrkeHGrGKymY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

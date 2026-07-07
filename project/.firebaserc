@@ -1,0 +1,5 @@
+{
+  "projects": {
+    "default": "sensor-suhu-sht20"
+  }
+}
